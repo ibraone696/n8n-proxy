@@ -1,0 +1,12 @@
+{
+  "name": "n8n-proxy",
+  "version": "1.0.0",
+  "description": "Proxy IPv4 -> IPv6 pour n8n et Supabase",
+  "main": "proxy.js",
+  "scripts": {
+    "start": "node proxy.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
